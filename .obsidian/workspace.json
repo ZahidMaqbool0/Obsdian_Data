@@ -11,17 +11,28 @@
             "id": "1584ac5dcf223639",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Paragoan.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Paragoan"
+              "title": "zahid"
+            }
+          },
+          {
+            "id": "d6f8b60f4cb39ca3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Tags"
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +84,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "08cc5d8ca47815d1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,8 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f84dcece1ad0a8",
+  "active": "396a51b1ce58c241",
   "lastOpenFiles": [
+    "Tags/Tags.md",
+    "Paragoan.md",
+    "Tags",
     "Data/Obsidian Connect with GitHub.md",
     "Bottcamp Work.md",
     "Data/GitHub.md",
@@ -203,7 +228,6 @@
     "Untitled",
     "Data",
     "xyz Testing.md",
-    "Paragoan.md",
     "Untitled.base",
     "Untitled.canvas",
     "Data/Flutter Error Resolved.md",
