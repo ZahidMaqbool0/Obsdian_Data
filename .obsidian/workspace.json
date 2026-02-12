@@ -11,10 +11,14 @@
             "id": "60a34b9c5854b6f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Paragoan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Paragoan"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paragoan.md",
+                "file": "Important Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Paragoan"
+              "title": "Backlinks for Important Commands"
             }
           },
           {
@@ -160,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Paragoan"
             }
+          },
+          {
+            "id": "2b1718624c783d58",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "60a34b9c5854b6f6",
   "lastOpenFiles": [
-    "Untitled.base",
     "Important Commands.md",
     "Paragoan.md",
+    "Untitled.base",
     "Untitled.canvas",
     "Flutter Error Resolved.md",
     "2026-02-12.md",

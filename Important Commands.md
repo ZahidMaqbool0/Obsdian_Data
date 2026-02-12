@@ -180,3 +180,11 @@ Scrcpy like a tool, it is show the mobile device on desktop screen. mean physica
 ```bash
 scrcpy --always-on-top --stay-awake
 ```
+
+
+
+
+zjvizjvzj
+lmcmzm
+vkxdnn
+
