@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "385a8a63118b0cb7",
+        "id": "7f65501b227f91fc",
         "type": "tabs",
         "children": [
           {
-            "id": "08d609896eb778b9",
+            "id": "a8101ab324d0251c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "036a1913cdb9719e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f84dcece1ad0a8",
+  "active": "036a1913cdb9719e",
   "lastOpenFiles": [
     "Paragoan.md",
     "Bottcamp Work.md",
