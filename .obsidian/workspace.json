@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "036a1913cdb9719e",
+            "id": "64634c0db1c64ae7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "036a1913cdb9719e",
+  "active": "64634c0db1c64ae7",
   "lastOpenFiles": [
+    ".gitignore.md",
     "Paragoan.md",
     "Bottcamp Work.md",
     "images folder/images folder.md",
