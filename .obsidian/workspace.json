@@ -11,10 +11,14 @@
             "id": "27d72e7e6fbf3d13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Connect with GitHub.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Obsidian Connect with GitHub"
             }
           }
         ]
