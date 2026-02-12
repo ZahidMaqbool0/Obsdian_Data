@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "6d9c8196b7c689e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ddc08ce16f8ccec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a34b9c5854b6f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16f36c280ce9746a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d98f7257a5e8ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f84dcece1ad0a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4310fe2d8e1179b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "50739abe4aeb4b3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "caee2897c371c974",
+    "type": "split",
+    "children": [
+      {
+        "id": "88637744bf9e4579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ea78561eb4b2a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paragoan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Paragoan"
+            }
+          },
+          {
+            "id": "0d5b1542e576235e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paragoan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Paragoan"
+            }
+          },
+          {
+            "id": "80b1b6599de5c5b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "017d325cb86a48a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a11eb38cb69f3217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paragoan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Paragoan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "60a34b9c5854b6f6",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Important Commands.md",
+    "Paragoan.md",
+    "Untitled.canvas",
+    "Flutter Error Resolved.md",
+    "2026-02-12.md",
+    "images folder/Pasted image 20260128134442 1.png",
+    "images folder/Pasted image 20260210153716.png",
+    "images folder/Pasted image 20260128134442.png",
+    "images folder",
+    "Untitled",
+    "Pasted image 20260128134429.png",
+    "Welcome.md"
+  ]
+}
