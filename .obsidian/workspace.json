@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0a60bbd5139315",
+        "id": "385a8a63118b0cb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1584ac5dcf223639",
+            "id": "08d609896eb778b9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "/"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "zahid"
-            }
-          },
-          {
-            "id": "d6f8b60f4cb39ca3",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags"
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,19 +69,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "08cc5d8ca47815d1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,13 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "396a51b1ce58c241",
+  "active": "a9f84dcece1ad0a8",
   "lastOpenFiles": [
-    "Tags/Tags.md",
     "Paragoan.md",
+    "Bottcamp Work.md",
+    "images folder/images folder.md",
+    "Data/Data.md",
+    "zahid.md",
+    "Tags/Tags.md",
     "Tags",
     "Data/Obsidian Connect with GitHub.md",
-    "Bottcamp Work.md",
     "Data/GitHub.md",
     "Data/Important Commands.md",
     "Untitled",

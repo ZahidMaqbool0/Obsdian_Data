@@ -1,3 +1,6 @@
+---
+color: var(--mk-color-green)
+---
 
 
 # Jcenter Issue
@@ -94,9 +97,3 @@ bottom given path this line is ***==newArchEnabled=true**==* we write the false 
 
 
 
-
-
-huhh
-kjjggg
-jggg
-hh

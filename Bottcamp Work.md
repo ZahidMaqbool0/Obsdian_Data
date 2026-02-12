@@ -1,3 +1,6 @@
+---
+color: var(--mk-color-green)
+---
 # Bootcamp-Daily-Task-Record
 🚀 Daily Bootcamp progress — Learning, Coding, and Growing every day.
 
