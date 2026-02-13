@@ -3,7 +3,7 @@
 👉 Simple meaning:  
 An **API is a messenger** that helps two applications talk to each other.
 
-![[api_stand_for.png]]
+![]()
 
 ---
 ## 🧠 Easy Example (Real Life)
