@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//images folder",
-    "//Data"
+    "//Data",
+    "//images-folder"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

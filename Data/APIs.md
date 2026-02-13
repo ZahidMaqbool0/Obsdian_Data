@@ -3,7 +3,7 @@
 👉 Simple meaning:  
 An **API is a messenger** that helps two applications talk to each other.
 
-![]()
+![](../images-folder/api_stand_for.png)
 
 ---
 ## 🧠 Easy Example (Real Life)
@@ -15,8 +15,7 @@ You tell the **waiter** what you want.
 The waiter goes to the **kitchen** and brings your food.
 👉 The waiter is like an **API**.  
 It takes your request and brings back the response.
-
-![[what_is_api.png]]
+![](../images-folder/what_is_api.png)
 
 ---
 # 🌐 Types of API
