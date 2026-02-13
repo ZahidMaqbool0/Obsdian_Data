@@ -13,5 +13,8 @@ You tell the **waiter** what you want.
 The waiter goes to the **kitchen** and brings your food.
 👉 The waiter is like an **API**.  
 It takes your request and brings back the response.
+![[what_is_api.png]]
 
 ---
+
+
