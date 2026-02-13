@@ -134,7 +134,7 @@ There are **two main ways** to classify APIs:
 | 17    | WebRTC DataChannel | Browser-to-browser direct data transfer.                                            | ❌ Web/Video apps           |
 
 ---
-# 🎯 What YOU Should Focus On (Very Important)
+# 🎯🌐 What YOU Should Focus On (Very Important)
 Since you are:
 - Beginner Flutter Developer
 - Beginner Tester
@@ -148,5 +148,14 @@ Since you are:
 ### **👉  That’s enough for beginner → intermediate level 🚀**
 
 ---
-
-# REST FULL APIs
+# 🎯🎯🌐 REST FULL APIs 🌐🎯🎯
+- **👉 RESTful API ek architectural style hai jo HTTP methods ka use karke client aur server ke darmiyan data exchange karta hai.**
+- **👉 REST Full API ka full form hai Representational State Transfer API**.
+- **👉 A RESTful API is an architectural style that uses HTTP methods to enable communication and data exchange between a client and a server.
+- **👉 A RESTful API allows a client and server to communicate using HTTP methods like GET, POST, PUT, and DELETE.
+## 🏗 RESTful API ki khas baatein
+- ✅ HTTP methods use karta hai (GET, POST, PUT, DELETE)
+- ✅ Mostly JSON format me data deta hai
+- ✅ Simple aur lightweight hota hai
+- ✅ Mobile apps (Flutter), Web apps me zyada use hota hai
+## 🧠 REST ka basic concept
