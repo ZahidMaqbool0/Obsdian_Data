@@ -87,3 +87,26 @@ There are **two main ways** to classify APIs:
 - Chat apps
 - Live games
 - Live stock data
+
+---
+# 📌📚Complete List of API Types (Based Architecture) 🔍
+
+| API                                                                                         | Brief Description                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [REST](https://tekblueprint.org/blog/arch/essentials-api/#rest)                             | An architectural style for building web services that uses standard HTTP methods (GET, POST, PUT, DELETE) and a resource-oriented approach.                        |
+| [SOAP](https://tekblueprint.org/blog/arch/essentials-api/#soap)                             | A structured XML messaging protocol that supports strong schemas (WSDL) and advanced security features (WS-Security).                                              |
+| [GraphQL](https://tekblueprint.org/blog/arch/essentials-api/#graphql)                       | An API query language that allows a client to request exactly the data they need and receive it in a single response.                                              |
+| [gRPC](https://tekblueprint.org/blog/arch/essentials-api/#grpc)                             | A high-performance RPC framework from Google that uses Protocol Buffers and HTTP/2 for binary data exchange.                                                       |
+| [MCP](https://tekblueprint.org/blog/arch/essentials-api/#mcp)                               | An open standard designed to unify interactions between artificial intelligence models (e.g., large language models, LLMs) and external tools, data, and services. |
+| [WebSocket](https://tekblueprint.org/blog/arch/essentials-api/#websocket)                   | A two-way, full-duplex channel over a single TCP connection, allowing the server to initiate real-time data transfers.                                             |
+| [JSON-RPC](https://tekblueprint.org/blog/arch/essentials-api/#jsonrpc)                      | A simple remote procedure call protocol that uses JSON to encode requests and responses.                                                                           |
+| [OData](https://tekblueprint.org/blog/arch/essentials-api/#odata)                           | A REST-based data access protocol that enables querying, filtering, sorting, and pagination via URL parameters.                                                    |
+| [SSE](https://tekblueprint.org/blog/arch/essentials-api/#sse)                               | Unidirectional data flow from server to client over a regular HTTP connection.                                                                                     |
+| [Long Polling](https://tekblueprint.org/blog/arch/essentials-api/#long-polling)             | A technique for simulating a push connection: the client sends a request, the server holds it until new data becomes available, then responds.                     |
+| [STOMP](https://tekblueprint.org/blog/arch/essentials-api/#stomp)                           | A simple text-based protocol for exchanging messages over brokers (e.g., WebSocket).                                                                               |
+| [Webhooks](https://tekblueprint.org/blog/arch/essentials-api/#webhooks)                     | HTTP callbacks automatically sent by the server when a specific event occurs.                                                                                      |
+| [MQTT](https://tekblueprint.org/blog/arch/essentials-api/#mqtt)                             | A lightweight publish/subscribe protocol for transmitting telemetry and IoT device data in small packets.                                                          |
+| [AMQP](https://tekblueprint.org/blog/arch/essentials-api/#amqp)                             | A messaging protocol with guaranteed delivery, supporting queuing, routing, and transactions.                                                                      |
+| [EDI](https://tekblueprint.org/blog/arch/essentials-api/#edi)                               | Electronic Data Interchange, a standardized format for transferring business documents between companies.                                                          |
+| [CoAP](https://tekblueprint.org/blog/arch/essentials-api/#coap)                             | A protocol for resource-constrained devices that operates over UDP and supports REST-like requests.                                                                |
+| [WebRTC DataChannel](https://tekblueprint.org/blog/arch/essentials-api/#webrtc-datachannel) | A peer-to-peer data channel for transferring arbitrary data (not just audio/video) between browsers using DTLS/SCTP.                                               |
