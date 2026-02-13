@@ -53,3 +53,37 @@ There are **two main ways** to classify APIs:
 
 ---
 # 🔵 2️⃣ Based on Architecture (Most Important for You 🔥)
+## 1️⃣ REST API (Most Common 🚀)
+- Uses HTTP methods (GET, POST, PUT, DELETE)
+- Returns JSON
+- Simple and widely used
+**👉Used in Flutter with:**
+- `http` package
+- `dio` package
+###### **👉 This is the most important for you as beginner**
+
+---
+## 2️⃣ SOAP API
+- Older technology
+- Uses XML
+- More complex
+**👉Used in banking systems sometimes**
+###### **👉 Not common in Flutter projects today.**
+
+---
+## 3️⃣ GraphQL API
+- Client requests exactly what data it needs
+- More flexible
+- Reduces extra data
+**👉 Used by:**
+- Facebook
+- GitHub
+
+---
+## 4️⃣ WebSocket API
+- Real-time communication
+- Two-way connection
+**👉 Used for:** **
+- Chat apps
+- Live games
+- Live stock data
