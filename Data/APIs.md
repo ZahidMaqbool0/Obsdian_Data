@@ -148,3 +148,5 @@ Since you are:
 ### **👉  That’s enough for beginner → intermediate level 🚀**
 
 ---
+
+# REST FULL APIs
