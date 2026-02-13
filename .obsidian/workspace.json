@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "64634c0db1c64ae7",
+            "id": "bf0d7e7f90e66188",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64634c0db1c64ae7",
+  "active": "bf0d7e7f90e66188",
   "lastOpenFiles": [
     ".gitignore.md",
     "Paragoan.md",
