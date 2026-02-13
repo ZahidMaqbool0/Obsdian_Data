@@ -158,4 +158,46 @@ Since you are:
 - ✅ Mostly JSON format me data deta hai
 - ✅ Simple aur lightweight hota hai
 - ✅ Mobile apps (Flutter), Web apps me zyada use hota hai
-## 🧠 REST ka basic concept
+
+---
+# 🧠 Important Interview Points (REST ka basic concept)
+- ✅ **GET** → Data read
+- ✅ **POST** → Data create
+- ✅ **PUT** → Full update
+- ✅ **PATCH** → Partial update
+- ✅ **DELETE** → Remove data
+- ✅ **OPTIONS** → Check API permissions
+- ✅ **HEAD** → Metadata check
+
+---
+# 🌐 HTTP Methods – Complete Table
+- 👉 HTTP methods define what action the client wants to perform on the server, such as getting, creating, updating, or deleting data.
+
+| 🔢 No | Method  | Full Meaning          | Kya karta hai?                             | Data Change? | Body Use?      | Example URL | Real Example              |
+| ----- | ------- | --------------------- | ------------------------------------------ | ------------ | -------------- | ----------- | ------------------------- |
+| 1️⃣   | GET     | Get Data              | Server se data lena                        | ❌ Nahi       | ❌ Nahi         | `/users`    | Users ki list show karna  |
+| 2️⃣   | POST    | Create Data           | Naya data create karna                     | ✅ Haan       | ✅ Haan         | `/users`    | New user add karna        |
+| 3️⃣   | PUT     | Update Data           | Pura data update karna                     | ✅ Haan       | ✅ Haan         | `/users/1`  | User ka naam change karna |
+| 4️⃣   | PATCH   | Partial Update        | Data ka kuch part update karna             | ✅ Haan       | ✅ Haan         | `/users/1`  | Sirf email update karna   |
+| 5️⃣   | DELETE  | Delete Data           | Data delete karna                          | ✅ Haan       | ❌ Usually nahi | `/users/1`  | User remove karna         |
+| 6️⃣   | OPTIONS | Check Allowed Methods | Server se poochna konsa method allowed hai | ❌ Nahi       | ❌ Nahi         | `/users`    | API support check         |
+| 7️⃣   | HEAD    | Headers Only          | Sirf headers lena (body nahi)              | ❌ Nahi       | ❌ Nahi         | `/users`    | Check if resource exist   |
+
+---
+# 🌐 HTTP Methods (Simple Table IN English)
+| No  | Method  | What It Does                        | Changes Data? | Example              |
+| --- | ------- | ----------------------------------- | ------------- | -------------------- |
+| 1   | GET     | Gets data from the server           | ❌ No          | Get user list        |
+| 2   | POST    | Creates new data                    | ✅ Yes         | Add new user         |
+| 3   | PUT     | Updates existing data (full update) | ✅ Yes         | Update user name     |
+| 4   | PATCH   | Updates part of the data            | ✅ Yes         | Update only email    |
+| 5   | DELETE  | Removes data                        | ✅ Yes         | Delete user          |
+| 6   | OPTIONS | Shows allowed methods               | ❌ No          | Check API methods    |
+| 7   | HEAD    | Gets headers only (no body)         | ❌ No          | Check if data exists ||
+
+# STEP BY STEP WE SEE ALL HTTP METHOD
+## 1️⃣ 📌 Get Method
+- 👉 **GET is an HTTP method used to retrieve data from a server.**
+- 👉 **GET is used to get (receive) data.**
+- 👉 It does **not** change or delete data.  
+- 👉 It only reads data from the server.
