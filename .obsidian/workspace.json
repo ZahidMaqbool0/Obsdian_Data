@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/APIs.md",
+                "file": "Data/Important Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APIs"
+              "title": "Important Commands"
             }
           }
         ]
@@ -207,13 +207,13 @@
   },
   "active": "eec94015b1ea2a77",
   "lastOpenFiles": [
+    "Bottcamp Work.md",
+    "Paragoan.md",
+    "Data/APIs.md",
     "images-folder/api_stand_for.png",
     "images-folder/what_is_api.png",
     "images-folder/images-folder.md",
-    "Data/APIs.md",
     ".gitignore.md",
-    "Paragoan.md",
-    "Bottcamp Work.md",
     "Data/Data.md",
     "zahid.md",
     "Tags/Tags.md",
